@@ -25,7 +25,7 @@ var landscapeVal = "landscape";
 
 window.iui =
 {
-	animOn: true,
+	animOn: true,	// Slide animation with CSS transition is now enabled by default where supported
 
 	showPage: function(page, backwards)
 	{
